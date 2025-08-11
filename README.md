@@ -1,18 +1,17 @@
-# Shan's Cookies Delices - Site web
+# Shan's Cookies Delices - Site Web
 
-Site statique simple pour Shan's Cookies Delices, publié via GitHub Pages.
+Site vitrine de Shan's Cookies Delices, proposant des cookies artisanaux et gourmands.
 
 ## Déploiement
-1. Pousser les fichiers sur la branche `main`.
+Ce site est hébergé via GitHub Pages.  
+Pour le publier :
+1. Pousser le code sur la branche `main` de votre dépôt GitHub.
 2. Activer GitHub Pages dans **Settings → Pages**.
-3. L’URL du site sera : `https://TON-USERNAME.github.io/cookies-site/`
+3. Choisir `main` comme branche et `/ (root)` comme dossier.
 
-## Contenu
-- `index.html` : page principale
-- `styles.css` : styles
-- `merci.html` : page de remerciement après envoi du formulaire
-- Images depuis Unsplash (libre d'utilisation)
+## Formulaire
+Le formulaire utilise [formsubmit.co](https://formsubmit.co).  
+Modifier l'email et l'URL de redirection (`_next`) dans `index.html` si nécessaire.
 
-## Contact
-- Email via formulaire (FormSubmit)
-- WhatsApp : +2290196600126
+## Licence
+© 2025 Shan's Cookies Delices — Tous droits réservés.
