@@ -11,7 +11,7 @@ Pour le publier :
 
 ## Formulaire
 Le formulaire utilise [formsubmit.co](https://formsubmit.co).  
-Modifier l'email et l'URL de redirection (`_next`) dans `index.html` si nécessaire.
+Modifier l’email et l’URL de redirection (`_next`) dans `index.html` si nécessaire.
 
 ## Licence
 © 2025 Shan's Cookies Delices — Tous droits réservés.
